@@ -1,4 +1,4 @@
-﻿import numpy as np  # 선형대수 모듈
+import numpy as np  # 선형대수 모듈
 import matplotlib.pyplot as plt  # 시각화 모듈
 import torch  # 파이토치
 import torch.nn as nn  # Pytorch의 모듈을 모아놓은 것. from~이 아닌 저렇게 임포트를 하는것이 거의 관습이라고 함
